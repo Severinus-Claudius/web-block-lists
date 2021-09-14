@@ -1,1 +1,55 @@
-
+starwars.fandom.com###mixed-content-footer
+starwars.fandom.com###WikiaRailWrapper
+starwars.fandom.com##.unified-search__layout__right-rail
+getcomics.info###wpfront-notification-bar-spacer
+bilasport.net##div.game_tbl_info4:nth-of-type(3)
+bilasport.net##div.game_er_player:nth-of-type(6)
+bilasport.net##div#right_side_a.game_er_player:nth-of-type(5)
+bilasport.net##.right_side
+bilasport.net###gamesinfo
+imgur.com##.Gallery-Sidebar
+imgur.com##.BottomRecirc
+www.dailymotion.com##.DiscoveryVideoSection__visible___2pkr7.DiscoveryVideoSection__discoveryVideoSection___3j5Nh > .row
+||cdn.tinypass.com^$domain=economist.com
+bilasport.com##.col-lg-4
+bilasport.com##.set-bg.hero-section
+bilasport.com###right_side_a
+www.fangraphs.com##.ra-membership-house
+|http$script,subdocument,third-party,domain=720pstream.se
+@@||720pstream.se^$important,domain=720pstream.se
+@@||akamai.net^$important,domain=720pstream.se
+@@||cloudflare.net^$important,domain=720pstream.se
+@@||embedstream.me^$important,domain=720pstream.se
+@@||google.com^$important,domain=720pstream.se
+@@||googlevideo.com^$important,domain=720pstream.se
+@@||jsdelivr.net^$important,domain=720pstream.se
+@@||mlb.com^$important,domain=720pstream.se
+@@||mlb.map.fastly.net^$important,domain=720pstream.se
+@@||tvply.me^$important,domain=720pstream.se
+@@||vdosupreme.com^$important,domain=720pstream.se
+720pstream.se##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
+theglobeandmail.com##+js(set, tgam.keytar.enabled, undefined)
+starwars.fandom.com##div.main-container:nth-child(4) > div.resizable-container:nth-child(2) > div.page.has-right-rail:nth-child(7) > aside.page__right-rail:last-child
+starwars.fandom.com###WikiaBarWrapper
+olympics.com###tk-fanzonebanner__banner--atos
+olympics.com###mainContainer > div.container > div.row:first-child > div.col-lg-3.sidebar:last-child > div.text-center:first-child
+olympics.com###legendZZZS158A
+olympics.com###mainContainer > div.container > div.row:first-child > div.col-lg-3.sidebar:last-child > section.tk-section.tk-section--sidebar-atos.tokyo2020--olympics.bg-light:nth-child(3)
+|http$script,subdocument,third-party,domain=crackstreams.se
+@@||crackstreams.se^$important,domain=crackstreams.se
+@@||akamai.net^$important,domain=crackstreams.se
+@@||cloudflare.net^$important,domain=crackstreams.se
+@@||dotice.me^$important,domain=crackstreams.se
+@@||kxcdn.com^$important,domain=crackstreams.se
+@@||mlb.com^$important,domain=crackstreams.se
+@@||okamata.site^$important,domain=crackstreams.se
+@@||cdn.okamata.siteop^$important,domain=crackstreams.se
+@@||plytv.me^$important,domain=crackstreams.se
+@@||www.plytv.me^$important,domain=crackstreams.se
+@@||seckeyserv.me^$important,domain=crackstreams.se
+@@||tvply.me^$important,domain=crackstreams.se
+@@||vdosupreme.com^$important,domain=crackstreams.se
+crackstreams.se##.bg-dark.embed-responsive-16by9.embed-responsive > .h-100.w-100.position-absolute
+crackstreams.se##.text-center.col-md-4.d-md-block.d-none
+crackstreams.se##.text-center.col-md-8.col-12 > .text-center
+transfermarkt.co.uk###main > div.banner.sub-banner:nth-child(14)
