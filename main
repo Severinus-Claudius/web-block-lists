@@ -28,6 +28,19 @@ www.fangraphs.com##.ra-membership-house
 @@||tvply.me^$important,domain=720pstream.se
 @@||vdosupreme.com^$important,domain=720pstream.se
 720pstream.se##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
+|http$script,subdocument,third-party,domain=720pstream.tv
+@@||720pstream.tv^$important,domain=720pstream.tv
+@@||akamai.net^$important,domain=720pstream.tv
+@@||cloudflare.net^$important,domain=720pstream.tv
+@@||embedstream.me^$important,domain=720pstream.tv
+@@||google.com^$important,domain=720pstream.tv
+@@||googlevideo.com^$important,domain=720pstream.tv
+@@||jsdelivr.net^$important,domain=720pstream.tv
+@@||mlb.com^$important,domain=720pstream.tv
+@@||mlb.map.fastly.net^$important,domain=720pstream.tv
+@@||tvply.me^$important,domain=720pstream.tv
+@@||vdosupreme.com^$important,domain=720pstream.tv
+720pstream.tv##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
 theglobeandmail.com##+js(set, tgam.keytar.enabled, undefined)
 starwars.fandom.com##div.main-container:nth-child(4) > div.resizable-container:nth-child(2) > div.page.has-right-rail:nth-child(7) > aside.page__right-rail:last-child
 starwars.fandom.com###WikiaBarWrapper
