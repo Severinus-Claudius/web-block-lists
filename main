@@ -83,3 +83,4 @@ www.rottentomatoes.com###newsAndFeatures
 @@||mlb.map.fastly.net^$important,domain=720pstream.me
 @@||tvply.me^$important,domain=720pstream.me
 @@||vdosupreme.com^$important,domain=720pstream.me
+720pstream.me##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
