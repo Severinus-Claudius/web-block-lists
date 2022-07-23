@@ -72,6 +72,7 @@ transfermarkt.co.uk###main > div.banner.sub-banner:nth-child(14)
 crackstreams.se##.top-0.text-white.bg-opacity-50.bg-light.w-100.position-absolute.h-100
 crackstreams.se##.m-1.fw-bold.btn-danger.btn
 www.rottentomatoes.com###newsAndFeatures
+www.rottentomatoes.com##sponsored-carousel-tracker
 |http$script,subdocument,third-party,domain=720pstream.me
 @@||720pstream.me^$important,domain=720pstream.me
 @@||akamai.net^$important,domain=720pstream.me
