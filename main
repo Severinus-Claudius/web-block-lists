@@ -88,3 +88,5 @@ www.rottentomatoes.com##sponsored-carousel-tracker
 720pstream.me##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
 @@||embedstream.me^$important,domain=720pstream.me
 @@||nolive.me.me^$important,domain=720pstream.me
+@@||edghst.me^$important,domain=720pstream.me
+@@||seckeyserv.me^$important,domain=720pstream.me
