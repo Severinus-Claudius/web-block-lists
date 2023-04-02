@@ -1,7 +1,7 @@
 ! Title: Custom List
 ! Expires: 1 day (update frequency)
 ! Description: Custom filters
-! Version: 1.0.0.3
+! Version: 1.0.0.4
 
 starwars.fandom.com###mixed-content-footer
 starwars.fandom.com###WikiaRailWrapper
@@ -21,34 +21,34 @@ bilasport.com##.col-lg-4
 bilasport.com##.set-bg.hero-section
 bilasport.com###right_side_a
 www.fangraphs.com##.ra-membership-house
-|http$script,subdocument,third-party,domain=720pstream.se
-@@||720pstream.se^$important,domain=720pstream.se
-@@||akamai.net^$important,domain=720pstream.se
-@@||cloudflare.net^$important,domain=720pstream.se
-@@||embedstream.me^$important,domain=720pstream.se
-@@||google.com^$important,domain=720pstream.se
-@@||googlevideo.com^$important,domain=720pstream.se
-@@||jsdelivr.net^$important,domain=720pstream.se
-@@||mlb.com^$important,domain=720pstream.se
-@@||mlb.map.fastly.net^$important,domain=720pstream.se
-@@||tvply.me^$important,domain=720pstream.se
-@@||vdosupreme.com^$important,domain=720pstream.se
-720pstream.se##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
-|http$script,subdocument,third-party,domain=720pstream.tv
-@@||720pstream.tv^$important,domain=720pstream.tv
-@@||akamai.net^$important,domain=720pstream.tv
-@@||cloudflare.net^$important,domain=720pstream.tv
-@@||embedstream.me^$important,domain=720pstream.tv
-@@||google.com^$important,domain=720pstream.tv
-@@||dai.google.com^$important,domain=720pstream.tv
-@@||googlevideo.com^$important,domain=720pstream.tv
-@@||redirector.googlevideo.com^$important,domain=720pstream.tv
-@@||jsdelivr.net^$important,domain=720pstream.tv
-@@||mlb.com^$important,domain=720pstream.tv
-@@||mlb.map.fastly.net^$important,domain=720pstream.tv
-@@||tvply.me^$important,domain=720pstream.tv
-@@||vdosupreme.com^$important,domain=720pstream.tv
-720pstream.tv##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
+!|http$script,subdocument,third-party,domain=720pstream.se
+!@@||720pstream.se^$important,domain=720pstream.se
+!@@||akamai.net^$important,domain=720pstream.se
+!@@||cloudflare.net^$important,domain=720pstream.se
+!@@||embedstream.me^$important,domain=720pstream.se
+!@@||google.com^$important,domain=720pstream.se
+!@@||googlevideo.com^$important,domain=720pstream.se
+!@@||jsdelivr.net^$important,domain=720pstream.se
+!@@||mlb.com^$important,domain=720pstream.se
+!@@||mlb.map.fastly.net^$important,domain=720pstream.se
+!@@||tvply.me^$important,domain=720pstream.se
+!@@||vdosupreme.com^$important,domain=720pstream.se
+!720pstream.se##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
+!|http$script,subdocument,third-party,domain=720pstream.tv
+!@@||720pstream.tv^$important,domain=720pstream.tv
+!@@||akamai.net^$important,domain=720pstream.tv
+!@@||cloudflare.net^$important,domain=720pstream.tv
+!@@||embedstream.me^$important,domain=720pstream.tv
+!@@||google.com^$important,domain=720pstream.tv
+!@@||dai.google.com^$important,domain=720pstream.tv
+!@@||googlevideo.com^$important,domain=720pstream.tv
+!@@||redirector.googlevideo.com^$important,domain=720pstream.tv
+!@@||jsdelivr.net^$important,domain=720pstream.tv
+!@@||mlb.com^$important,domain=720pstream.tv
+!@@||mlb.map.fastly.net^$important,domain=720pstream.tv
+!@@||tvply.me^$important,domain=720pstream.tv
+!@@||vdosupreme.com^$important,domain=720pstream.tv
+!720pstream.tv##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
 theglobeandmail.com##+js(set, tgam.keytar.enabled, undefined)
 starwars.fandom.com##div.main-container:nth-child(4) > div.resizable-container:nth-child(2) > div.page.has-right-rail:nth-child(7) > aside.page__right-rail:last-child
 starwars.fandom.com###WikiaBarWrapper
@@ -78,20 +78,20 @@ crackstreams.se##.top-0.text-white.bg-opacity-50.bg-light.w-100.position-absolut
 crackstreams.se##.m-1.fw-bold.btn-danger.btn
 www.rottentomatoes.com###newsAndFeatures
 www.rottentomatoes.com##sponsored-carousel-tracker
-|http$script,subdocument,third-party,domain=720pstream.me
-@@||720pstream.me^$important,domain=720pstream.me
-@@||akamai.net^$important,domain=720pstream.me
-@@||cloudflare.net^$important,domain=720pstream.me
-@@||embedstream.me^$important,domain=720pstream.me
-@@||google.com^$important,domain=720pstream.me
-@@||googlevideo.com^$important,domain=720pstream.me
-@@||jsdelivr.net^$important,domain=720pstream.me
-@@||mlb.com^$important,domain=720pstream.me
-@@||mlb.map.fastly.net^$important,domain=720pstream.me
-@@||tvply.me^$important,domain=720pstream.me
-@@||vdosupreme.com^$important,domain=720pstream.me
-720pstream.me##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
-@@||embedstream.me^$important,domain=720pstream.me
-@@||nolive.me.me^$important,domain=720pstream.me
-@@||edghst.me^$important,domain=720pstream.me
-@@||seckeyserv.me^$important,domain=720pstream.me
+!|http$script,subdocument,third-party,domain=720pstream.me
+!@@||720pstream.me^$important,domain=720pstream.me
+!@@||akamai.net^$important,domain=720pstream.me
+!@@||cloudflare.net^$important,domain=720pstream.me
+!@@||embedstream.me^$important,domain=720pstream.me
+!@@||google.com^$important,domain=720pstream.me
+!@@||googlevideo.com^$important,domain=720pstream.me
+!@@||jsdelivr.net^$important,domain=720pstream.me
+!@@||mlb.com^$important,domain=720pstream.me
+!@@||mlb.map.fastly.net^$important,domain=720pstream.me
+!@@||tvply.me^$important,domain=720pstream.me
+!@@||vdosupreme.com^$important,domain=720pstream.me
+!720pstream.me##a.m-1.btn-xs.btn-primary.btn:nth-of-type(1)
+!@@||embedstream.me^$important,domain=720pstream.me
+!@@||nolive.me.me^$important,domain=720pstream.me
+!@@||edghst.me^$important,domain=720pstream.me
+!@@||seckeyserv.me^$important,domain=720pstream.me
