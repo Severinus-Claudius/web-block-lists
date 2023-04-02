@@ -1,3 +1,8 @@
+! Title: Custom List
+! Expires: 1 day (update frequency)
+! Description: Custom filters
+! Version: 1.0.0.3
+
 starwars.fandom.com###mixed-content-footer
 starwars.fandom.com###WikiaRailWrapper
 starwars.fandom.com##.unified-search__layout__right-rail
